@@ -1,2 +1,2 @@
-# GPR-simulation
-Materials regarding gprMax simulation
+# simulation
+Materials regarding simulation
